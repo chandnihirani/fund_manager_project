@@ -1,6 +1,6 @@
 # Track Record Input — Document Upload
 
-**Primary input:** The manager **uploads a document** (pitch deck, LP deck, memo, one-pager, or similar). No form to fill. The assessor reads the document, extracts what’s there, and assesses against [track-record.md](track-record.md). Gaps are noted in the assessment; only ask for 1–2 critical missing items if needed — do not send them a long template.
+**Primary input:** The manager **uploads a document** (pitch deck, LP deck, memo, one-pager, or similar). No form to fill at all. The assessor reads the document, extracts what’s there, and assesses against [track-record.md](track-record.md). Gaps are noted in the assessment; only ask for 1–2 critical missing items if needed — do not send them a long template.
 
 **This file** is the **extraction checklist** for the assessor: what to look for in the document (or infer), and what to note as missing. Source: [track-record.md § Inputs for Assessment](track-record.md#inputs-for-assessment).
 
